@@ -1,4 +1,9 @@
 Roteiro Git/Github
 -Porque controlar?
 -Formas de controlar
--
+.
+.
+init
+commit
+add
+status
